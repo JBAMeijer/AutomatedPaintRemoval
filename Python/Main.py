@@ -11,5 +11,5 @@ import RobotController.RobotController as RC
 #window.show()
 #app.exec_()
 # while 1:
-RC.runDebugProcedure()
+# RC.runDebugProcedure()
 # RVM.runProcedure()

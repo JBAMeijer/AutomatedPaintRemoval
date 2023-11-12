@@ -7,5 +7,9 @@ AutomatedPaintRemoval
 - Python
 ### Libraries
 - PySide2 (UI library)
+- pyqt5
 - RoboDK python API (Robot controller)
-- Opencv (Vision library)
+- OpenCV (Vision library)
+
+### External dependecies
+- RoboDK
