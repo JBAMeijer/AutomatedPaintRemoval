@@ -3,6 +3,7 @@ Initial Readme
 AutomatedPaintRemoval
 
 ## Dependencies
+All of the dependencies can be installed through the requirements.txt file
 ### Languages
 - Python
 ### Libraries
@@ -12,4 +13,4 @@ AutomatedPaintRemoval
 - OpenCV (Vision library)
 
 ### External dependecies
-- RoboDK
+- [RoboDK](https://robodk.com/)
